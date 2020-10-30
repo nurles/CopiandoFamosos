@@ -17,4 +17,6 @@
     <string name="desaf_os">Desafíos</string>
     <string name="premios">Premios</string>
     <string name="multijugador">Multijugador</string>
+    <string name="tienda">Tienda</string>
+    <string name="men">Menú</string>
 </resources>
