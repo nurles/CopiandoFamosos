@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CopiandoFamosos</string>
+    <string name="copa_rey_boo">Copa Rey Boo</string>
+    <string name="senda_del_arce">Senda del Arce</string>
+    <string name="todo">TODO</string>
+    <string name="temporada_de_halloween">Temporada de Halloween</string>
+    <string name="_7">7</string>
+    <string name="_37_561">37 561</string>
+    <string name="_1_7">1,7%</string>
+    <string name="mansi_n_de_luigi">Mansión de Luigi</string>
+    <string name="bazar_shy_guy_x">Bazar Shy Guy X</string>
+    <string name="conducci_n_segura">¡Conducción segura!</string>
+    <string name="_3">3</string>
+    <string name="_10251">10251</string>
+    <string name="_10712">10712</string>
+    <string name="_12236">12236</string>
+    <string name="desaf_os">Desafíos</string>
+    <string name="premios">Premios</string>
+    <string name="multijugador">Multijugador</string>
+</resources>
